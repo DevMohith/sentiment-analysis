@@ -24,7 +24,7 @@ I wanted to challenge myself by:
 
 ## Highlights
 
-- Built my own `/analyze` API to act as a bridge between the frontend and Google's AI model.
+- Built my own `/analyze` API Endpoit to act as a bridge between the frontend and Google's AI model.
 - Carefully structured prompts to extract accurate sentiment output from the model.
 - Handled real-time responses from a powerful LLM and returned clean output to the user.
 - Dealt with cloud permissions, CORS issues, SDK limitations — and learned how to debug them.
