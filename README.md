@@ -1,13 +1,13 @@
 ## 📘 Sentiment Analyzer with React, Flask & Vertex AI
 
-### 🎯 Project Description (LinkedIn / Resume)
+### 🎯 Project Description
 A production-ready fullstack AI-powered sentiment analyzer app that integrates Google Cloud's **Vertex AI** (Text-Bison PaLM 2 model) with a **React frontend** and **Flask backend**. Users can input a sentence and receive real-time sentiment classification (positive, negative, or neutral). Deployed using **Cloud Run** (backend) and **Firebase Hosting** (frontend).
 
 ---
 
 ### 🚀 Production URLs
 - 🔗 **Live Frontend App**: [https://sentiment-analyzer-45592-f07a0.web.app](https://sentiment-analyzer-45592-f07a0.web.app)
-- 🔧 **Backend API (Cloud Run)**: [https://sentiment-analyzer-backend-283131268302.us-central1.run.app](https://sentiment-analyzer-backend-283131268302.us-central1.run.app)
+- 🔧 **Backend API**: [https://sentiment-analyzer-backend-283131268302.us-central1.run.app](https://sentiment-analyzer-backend-283131268302.us-central1.run.app)
 
 ---
 
